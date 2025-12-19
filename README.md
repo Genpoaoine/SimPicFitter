@@ -1,8 +1,8 @@
 # SimPicFitter 🖼️
 
-**SimPicFitter** 是一个基于 Python 的桌面应用程序，旨在帮助用户快速从海量图片库（支持 20,000+ 图片）中识别并自动归类相似或重复的照片。
+**SimPicFitter** 是一个基于 Python 的桌面应用程序，旨在帮助用户快速从海量图片库（支持 20,000+ 图片）中识别并自动归类相似或重复的照片。我们直接提供了 `exe` 文件，所以你可以直接打开使用。
 
-**SimPicFitter** is a Python-based desktop application designed to help users quickly identify and automatically categorize similar or duplicate photos from large image libraries (supporting over 20,000 images).
+**SimPicFitter** is a Python-based desktop application designed to help users quickly identify and automatically categorize similar or duplicate photos from large image libraries (supporting over 20,000 images). We have provided the `exe` file directly, so you can open and use it directly.
 
 ---
 
