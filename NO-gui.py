@@ -5,8 +5,8 @@ import time
 
 
 def process_images():
-    # 硬编码Windows文件夹位置（请修改为你的实际路径）
-    source_directory = r"E:\pixiv"  # 替换为你的实际路径
+    # 硬编码Windows文件夹位置
+    source_directory = r""  # 替换为你的实际路径
 
     print(f"[{time.strftime('%H:%M:%S')}] 开始处理目录: {source_directory}")
 
@@ -112,4 +112,5 @@ if __name__ == "__main__":
     print("=" * 50)
     process_images()
     print("=" * 50)
+
     input("按Enter键退出...")  # 防止窗口立即关闭
